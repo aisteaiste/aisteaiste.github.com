@@ -1,0 +1,19 @@
+body {
+	background-image:url("https://static.pexels.com/photos/36764/marguerite-daisy-beautiful-beauty.jpg");
+	color:blue;
+}
+
+.header1 {
+	color: yellow;
+}
+.header2 {
+	color: grey;
+}
+#head1 {
+	color:#f51ddc;
+}
+.div2 { 
+	color: #ffc0cb;
+	height: 400px;
+	width: 400px;
+}

@@ -1,0 +1,42 @@
+body {
+	background-color: white;
+	color:#36454f;
+	font-family: 'Lora', serif;
+}
+.boarder {
+	border-width: 1px;
+	border-color: #eec1ad;
+}
+.size{
+	width: 30px;
+}
+.pavadinimas{
+	color: #c98276;
+	font-size: 200%;
+}
+.navbar-inverse{
+	background-color: white;
+	height: 100px;
+	border-color: #c99789;
+	border-width: 10px;
+}
+.size2{
+	width: 15px;
+}
+.info{
+	color: #dfdfde;
+}
+.strong{
+	color:#e0a899;
+}
+.bounce{
+	animation-duration: 4s;
+	animation-delay: 2s;
+}
+.tarpai {
+	letter-spacing: -12px;
+	font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	position: relative;
+	top: 15px;
+}
